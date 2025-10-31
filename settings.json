@@ -12,5 +12,17 @@
       "text": "LinkedIn"
     }
   ],
-  "editThisPageRootUrl": "https://github.com/picoflow1/tutorial/main"
+  "editThisPageRootUrl": "https://github.com/picoflow1/tutorial/main",
+
+  "hljsLanguages": [
+    "xml",
+    "javascript",
+    "json",
+    "yaml",
+    "markdown",
+    "css",
+    "typescript"
+  ],
+  "siteLogoUrl": "/assets/logo-whole.png",
+  "siteLogoMaxHeight": 100
 }
