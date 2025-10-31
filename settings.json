@@ -1,0 +1,16 @@
+{
+  "siteTitle": "picoflow.io Demo Tutorial",
+  "siteDescription": "A picoflow demo flow",
+  "author": "Don Young",
+  "faviconUrl": "/assets/favicon.png",
+  "blogTitle": "Blog",
+  "blogDescription": "Here is the description of the blog part",
+  "productionUrl": "https://www.picoflow.io",
+  "customLinks": [
+    {
+      "url": "https://www.linkedin.com/company/picoflow-io",
+      "text": "LinkedIn"
+    }
+  ],
+  "editThisPageRootUrl": "https://github.com/picoflow1/tutorial/main"
+}
