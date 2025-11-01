@@ -1,5 +1,5 @@
 ---
-title: Hello Post!
+title: Hello Post!!
 description: I am the first blog post
 layout: libdoc_page.liquid
 permalink: "{{ libdocConfig.blogSlug }}/hello-post/index.html"

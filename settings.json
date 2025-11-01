@@ -3,8 +3,6 @@
   "siteDescription": "A picoflow demo flow",
   "author": "Don Young",
   "faviconUrl": "/assets/favicon.png",
-  "blogTitle": "Blog",
-  "blogDescription": "Here is the description of the blog part",
   "productionUrl": "https://www.picoflow.io",
   "customLinks": [
     {

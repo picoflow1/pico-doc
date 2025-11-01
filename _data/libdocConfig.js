@@ -20,7 +20,7 @@ export default {
     faviconUrl: userConfig.faviconUrl ?? "/favicon.png",
     ogImageUrl: userConfig.ogImageUrl ?? "https://raw.githubusercontent.com/ita-design-system/ita-medias/refs/heads/main/ogimage-11ty-libdoc.png",
     customLinks: userConfig.customLinks ?? [],
-    blogTitle: userConfig.blogTitle ?? "Blog Posts",
+    blogTitle: userConfig.blogTitle ?? "Blog Posts!!",
     blogDescription: userConfig.blogDescription ?? false,
     blogAuthor: userConfig.blogAuthor ?? false,
     blogSlug: userConfig.blogSlug ?? "posts",
